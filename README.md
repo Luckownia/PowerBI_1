@@ -8,6 +8,8 @@ This Power BI report visualizes the recent quiz scores of students. The dashboar
 - **-5% to 5% variance from median**
 - **>5% or more below median**
 
+![Dashboard Screenshot](p1.png)
+
 ## Report Components
 
 ### 1. **Key Metrics Display**
